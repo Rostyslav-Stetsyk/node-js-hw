@@ -1,0 +1,23 @@
+{
+  "name": "js-hw",
+  "version": "1.0.0",
+  "description": "Roboto Dreams course home work",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --import=tsx index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rostyslav-Stetsyk/node-js-hw.git"
+  },
+  "author": "Rostyslav Stetsyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rostyslav-Stetsyk/node-js-hw/issues"
+  },
+  "homepage": "https://github.com/Rostyslav-Stetsyk/node-js-hw#readme",
+  "devDependencies": {
+    "tsx": "^4.19.1"
+  }
+}
